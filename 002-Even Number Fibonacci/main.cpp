@@ -8,7 +8,7 @@ long sumEvenFibonnaci(int max);
 int main()
 {
     long answer = sumEvenFibonnaci(4000000);
-    cout << "um of the even-valued Fibonnaci terms < four million: " << answer;
+    cout << "sum of the even-valued Fibonnaci terms < four million: " << answer;
     return 0;
 }
 
